@@ -33,9 +33,7 @@ To get started with the test automation suite, follow the instructions below.
 1. Clone the repository: git clone https://github.com/nanaretana/gft-post-interview-exerc.git
 2. Navigate to the project directory:
 3. Install dependecies: npm install
-## Usage
-To run the automated tests, use the following npm script:
-npm test 
+
 
 ## Test Report
 You can generate and view the test report by running the following command:
