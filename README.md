@@ -41,3 +41,4 @@ npm test
 You can generate and view the test report by running the following command:
  npx playwright test --ui
  npx playwright show-report
+<img width="1176" alt="Screenshot 2024-04-29 at 3 33 17 PM" src="https://github.com/nanaretana/gft-post-interview-exerc/assets/168235774/ae7cd7ba-94df-4dbe-94b0-f1c9dd9e4f41">
